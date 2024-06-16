@@ -1,2 +1,2 @@
 print('Hello, Main!')
-print('Hello< Master!')
+print('Hello Master!')
